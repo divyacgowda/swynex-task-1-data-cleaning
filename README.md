@@ -42,7 +42,7 @@ Final Results
 
 Output File
 
-The cleaned dataset is saved as "data/titanic_cleaned.csv".
+The cleaned dataset is saved as "titanic_cleaned.csv" in the root directory of this repository
 
 The Jupyter Notebook contains the data inspection, cleaning code, and verification steps.
 
